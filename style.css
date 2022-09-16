@@ -94,7 +94,7 @@ p {
     flex-direction: row;
     flex-wrap: wrap;
 
-    width: 700px;
+    width: 50%;
     height: 700px;
     margin-top: 40px;
 }
